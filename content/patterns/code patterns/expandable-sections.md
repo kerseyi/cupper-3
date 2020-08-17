@@ -58,6 +58,10 @@ details.addEventListener("toggle", event => {
   });
 ```
 
+
+
+{{% wcag include="1.2.1, 1.3.1, 4.1.2" %}}
+
 {{% tested using="Firefox + JAWS, Chrome, Safari iOS + Voiceover, Edge" %}}
 
 
